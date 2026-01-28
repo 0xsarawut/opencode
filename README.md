@@ -132,3 +132,6 @@ It's very similar to Claude Code in terms of capability. Here are the key differ
 ---
 
 **Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
+
+https://base.easscan.org/attestation/view/0x544bafd8de09478b40a351edfecca7d3e0abdda7a51d5291149c322bb69401bb
+txid:1fb75ebb-b720-5f9f-88d8-b43ca6b3532c
